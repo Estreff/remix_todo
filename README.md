@@ -74,7 +74,7 @@ Prior to your first deployment, you'll need to do a few things:
 - Create two apps on Fly, one for staging and one for production:
 
   ```sh
-  fly create todo-app-730
+  fly create todo-app-7309
   fly create todo-app-7309-staging
   ```
 
